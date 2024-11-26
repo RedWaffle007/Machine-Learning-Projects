@@ -20,21 +20,21 @@ __🚀 Getting Started__
 Prerequisites
 Ensure you have Python 3.8+ and SpaCy installed. Install SpaCy via:
 
+## Setup Instructions
+**Clone the repository:**
 bash
-Copy code
-pip install spacy
-Setup Instructions
-Clone the repository:
+1)git clone https://github.com/RedWaffle007/Machine-Learning-Projects.git 
+2)cd Machine-Learning-Projects
+
+**Install dependencies:**
 bash
-Copy code
-git clone https://github.com/RedWaffle007/Machine-Learning-Projects.git
-cd Machine-Learning-Projects
-Open the Jupyter Notebook:
+3)pip install spacy
+
+**Open the Jupyter Notebook:**
 bash
-Copy code
-jupyter lab knnproject.ipynb
-Run the Project
-Execute all cells in the notebook to preprocess the data, train the model, tune hyperparameters, and analyze the results.
+4)jupyter lab knnproject.ipynb
+
+Run all cells to preprocess the data, train the model, tune hyperparameters, and analyze the results.
 
 __📊 Results__
 Achieved 59% accuracy after hyperparameter tuning, which reflects the performance of the KNN model on the IMDB dataset.
