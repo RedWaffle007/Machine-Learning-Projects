@@ -1,0 +1,5 @@
+.ipynb_checkpoints/ 
+.vector_cache/ 
+best_model.pth 
+Dataset.tar.gz 
+extracted_files/ 
