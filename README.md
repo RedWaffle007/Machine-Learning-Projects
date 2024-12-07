@@ -31,5 +31,5 @@ pip install -r requirements.txt
 
 ## Results
 
-The models' performance is compared in terms of accuracy. After evaluating multiple models, the Random Forest Classifier with Randomized SearchCV performed the best, achieving an accuracy of 84% on the test set. The Recurrent Neural Network (RNN) also showed promising results.i.e, 74% on test set but was outperformed by the Random Forest model in this particular dataset.
+The models' performance is compared in terms of accuracy. After evaluating multiple models, the Random Forest Classifier with Randomized SearchCV performed the best, achieving an accuracy of 84% on the test set. The Recurrent Neural Network (RNN) also showed promising results i.e., 74% on test set but was outperformed by the Random Forest model in this particular dataset.
 
