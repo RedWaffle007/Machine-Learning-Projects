@@ -33,3 +33,15 @@ pip install -r requirements.txt
 
 The models' performance is compared in terms of accuracy. After evaluating multiple models, the Random Forest Classifier with Randomized SearchCV performed the best, achieving an accuracy of 84% on the test set. The Recurrent Neural Network (RNN) also showed promising results i.e., 74% on test set but was outperformed by the Random Forest model in this particular dataset.
 
+## Dataset
+
+- [IMDB Large Movie Review Dataset](https://ai.stanford.edu/~amaas/data/sentiment/)
+- 50,000 labeled reviews (25,000 for training, 25,000 for testing)
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
