@@ -2,7 +2,7 @@
 
 This is my first project, and it introduced me to Natural Language Processing (NLP) and the exciting world of transformer models. Exploring the varied results from different algorithms and recognizing the potential for further improvement motivated me throughout this work.
 
-# IMDB Sentiment Analysis
+## IMDB Sentiment Analysis
 
 This project performs sentiment analysis on the IMDB movie reviews dataset using various machine learning models and techniques. The models used include:
 
